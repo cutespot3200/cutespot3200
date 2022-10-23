@@ -27,11 +27,11 @@
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I love to read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-cutespot3200-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/idayat-sanni-8481b569)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-cutespot3200-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/idayat-sanni-8481b569)<br>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
@@ -40,9 +40,9 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+</div><br>
 
--------------------------------------------------------------------------------------------------------------- <br>
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### :fire: My Stats :<br>
 
