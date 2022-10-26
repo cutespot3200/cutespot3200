@@ -56,6 +56,15 @@ I'm a Growing Front-End Developer from Nigeria.I love a challenge and I'm skille
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cutespot3200&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cutespot3200)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+[![Idayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=cutespot3200)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
