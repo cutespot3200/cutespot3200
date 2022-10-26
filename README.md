@@ -64,6 +64,7 @@ I'm a Growing Front-End Developer from Nigeria.I love a challenge and I'm skille
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning HTML, CSS and JAVASCRIPT](https://dev.to/cutespot3200/learning-html-css-and-javascript-247o)
 <!-- BLOG-POST-LIST:END -->
 
 
