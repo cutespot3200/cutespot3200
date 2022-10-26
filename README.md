@@ -78,6 +78,7 @@ I'm a Growing Front-End Developer from Nigeria.I love a challenge and I'm skille
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I NEED HELP WITH MY GITHUB PROFILE](https://dev.to/cutespot3200/i-need-help-with-my-github-profile-4ghk)
 - [Learning HTML, CSS and JAVASCRIPT](https://dev.to/cutespot3200/learning-html-css-and-javascript-247o)
 <!-- BLOG-POST-LIST:END -->
 
