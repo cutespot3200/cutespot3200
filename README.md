@@ -19,7 +19,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="90%"/>
 </div>
 
 -----------------------------------------------------------------------------------------------------------
@@ -62,12 +62,12 @@ I'm a Growing Front-End Developer from Nigeria.I love a challenge and I'm skille
 
 
 
-[![Idayat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cutespot3200)](https://github.com/anuraghazra/github-readme-stats)
+[![Idayat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cutespot3200&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
-[![Idayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=cutespot3200&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Idayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=cutespot3200&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
